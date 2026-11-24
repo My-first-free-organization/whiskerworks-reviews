@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 133
-- reviews: maintenance and dependency updates (2026-11-24 09:22)
+## Sprint 134
+- reviews: maintenance and dependency updates (2026-11-24 13:25)
